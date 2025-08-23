@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Luxury Apartment",
+    "lat": 28.71,
+    "long": 41.69,
+    "sizeM2": 80,
+    "stars": 4,
+    "consumptionType": "PURCHASE",
+    "price": 22000.5,
+    "photo": "https://unsplash.com/photos/5q1KnUjtjaM/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzU1OTc1OTE1fA",
+    "description": "Apartment for people who think they are important"
+  },
+  {
+    "name": "Suburban Home",
+    "lat": 30.0444,
+    "long": 31.2357,
+    "sizeM2": 120,
+    "stars": 5,
+    "consumptionType": "RENT",
+    "price": 1200.5,
+    "photo": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "description": "Beautiful home in a great school district"
+  },
+  {
+    "name": "Downtown Loft",
+    "lat": 34.0522,
+    "long": 118.2437,
+    "sizeM2": 95,
+    "stars": 3,
+    "consumptionType": "PURCHASE",
+    "price": 30000.0,
+    "photo": "https://images.unsplash.com/photo-1501183638714-84caa8e6f0d4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "description": "Modern loft in the heart of the city"
+  },
+  {
+    "name": "Cozy Cottage",
+    "lat": 51.5074,
+    "long": 0.1278,
+    "sizeM2": 60,
+    "stars": 4,
+    "consumptionType": "RENT",
+    "price": 800.0,
+    "photo": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+    "description": "Charming cottage in a quiet village"
+  }
+]
