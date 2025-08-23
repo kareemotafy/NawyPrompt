@@ -116,12 +116,19 @@ export default function HomePage() {
         }}
       />
 
-      {/* Foreground */}
+      <img
+        src="/logo.png"
+        alt="Caramel Real Estate"
+        style={{
+          width: 100,
+          height: 100,
+          position: "relative",
+          top: 20,
+          left: 20,
+          zIndex: 1,
+        }}
+      />
       <Container sx={{ mt: 4, position: "relative", zIndex: 1 }}>
-        <Typography variant="h4" gutterBottom fontWeight="bold">
-          Caramel Real Estate
-        </Typography>
-
         {/* Controls */}
         <Stack
           direction={{ xs: "column", sm: "row" }}
