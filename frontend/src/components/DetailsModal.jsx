@@ -71,10 +71,6 @@ export default function DetailsModal({ open, onClose, item }) {
           Price: {item.price} EGP
         </Typography>
 
-        <Typography variant="body2" color="text.secondary" gutterBottom>
-          Category: {item.category}
-        </Typography>
-
         {/* Lat / Long */}
         <Typography variant="body2" color="text.secondary">
           Latitude: {item.lat}
